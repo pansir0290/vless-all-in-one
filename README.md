@@ -1,4 +1,11 @@
-﻿# 多协议代理一键部署脚本 v3.1.10
+# 多协议代理一键部署脚本
+
+[![GitHub Stars](https://img.shields.io/github/stars/Chil30/vless-all-in-one?style=flat-square&logo=github)](https://github.com/Chil30/vless-all-in-one/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/Chil30/vless-all-in-one?style=flat-square&logo=github)](https://github.com/Chil30/vless-all-in-one/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/Chil30/vless-all-in-one?style=flat-square&logo=github)](https://github.com/Chil30/vless-all-in-one/issues)
+[![GitHub License](https://img.shields.io/github/license/Chil30/vless-all-in-one?style=flat-square)](https://github.com/Chil30/vless-all-in-one/blob/main/LICENSE)
+[![GitHub Downloads](https://img.shields.io/github/downloads/Chil30/vless-all-in-one/total?style=flat-square&logo=github)](https://github.com/Chil30/vless-all-in-one/releases)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FChil30%2Fvless-all-in-one&label=Visitors&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FChil30%2Fvless-all-in-one)
 
 一个简单易用的多协议代理部署脚本，支持 **14 种主流协议**，服务端/客户端一键安装，适用于 Alpine、Debian、Ubuntu、CentOS 等 Linux 发行版。
 
@@ -6,21 +13,6 @@
 
 ---
 💬 [Telegram 交流群](https://t.me/+amAwHtdsVecwZWIx)
-
-## 🆕 v3.1.9 更新
-
-### ✨ 新功能
-  - 新增「AsIs」网络模式（默认），自动适配你的网络环境，无需手动选择
-  - 支持五种网络出站方式：仅 IPv4、仅 IPv6、优先 IPv4、优先 IPv6、自动适配
-  - WARP 功能更稳定可靠
-  - WARP 下载失败时自动切换备用地址，提升安装成功率
-  - 延长 WARP 连接等待时间，降低超时失败概率
-
-### 🐛 Bug 修复
-  - 修复 WARP 配置解析失败问题
-  - 修复可能导致网络环路的配置错误
-  - 优化配置文件，移除冗余参数
----
 
 ## ✨ 支持协议
 
@@ -514,7 +506,7 @@ vless
 ### 主菜单
 ```
 ═════════════════════════════════════════════
-      多协议代理 一键部署 v3.1.7 [服务端]
+      多协议代理 一键部署  [服务端]
       作者: Chil30  快捷命令: vless
       https://github.com/Chil30/vless-all-in-one
 ═════════════════════════════════════════════
@@ -814,4 +806,7 @@ MIT License
 
 ---
 
-**⭐ 如果觉得有用，欢迎 Star！**
+## 📈 Star 历史
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Chil30/vless-all-in-one&type=Date)](https://star-history.com/#Chil30/vless-all-in-one&Date)
+
